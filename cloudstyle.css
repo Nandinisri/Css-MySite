@@ -1,0 +1,44 @@
+body{
+  text-align: center;
+  color:maroon;
+  background-color:#beeef7;
+}
+
+.top{
+  position: relative;
+  left:200px;
+}
+.center{
+position: relative;
+right:40px;
+}
+.bottom{
+position: relative;
+bottom:200px;
+}
+.my{
+  height: 250px;
+  width: 400px;
+  padding-top:30px;
+
+  margin: auto;
+  border-radius: 100%;
+}
+.my1{
+  background-color:#12d3cf;
+  }
+
+  .middle{
+    width:50%;
+    margin:0 auto 0 auto;
+  
+  }
+.last{
+  border-radius: 100%;
+  height: 100px;
+  width: 200px;
+  float: left;
+}
+.text{
+  line-height: 2;
+}
